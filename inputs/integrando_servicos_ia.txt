@@ -1,0 +1,54 @@
+Bootcamp Suzano - Python Developer - "Integrando com Serviços de IA", este curso aborda a integração de aplicações com serviços de Inteligência Artificial, com um foco especial na IA Generativa.
+
+A seguir apresento, um resumo dos principais conceitos apresentados:
+
+🔹 Fundamentos da IA Generativa
+A IA Generativa é uma área da Inteligência Artificial capaz de criar novos conteúdos—textos, imagens, áudios e vídeos—com base em padrões aprendidos a partir de dados. Essa tecnologia já está presente em diversas aplicações, como chatbots, tradução automática e geração de arte digital.
+
+Para que esses modelos funcionem, alguns conceitos fundamentais são essenciais:
+
+Modelos de Linguagem Grandes (LLMs): Baseados na arquitetura Transformer, esses modelos revolucionaram o Processamento de Linguagem Natural (NLP) ao aprenderem padrões complexos e gerarem respostas contextualizadas.
+Tokenização: Processo que divide um texto em pequenas unidades chamadas tokens (palavras ou partes delas), facilitando o entendimento da IA.
+Embeddings: Representações numéricas de palavras ou frases que ajudam os modelos a capturar contexto e relações semânticas.
+Mecanismo de Atenção: Permite que a IA priorize partes específicas do texto ao gerar respostas mais precisas.
+Copilotos: Assistentes baseados em IA que ajudam em diversas tarefas, como escrever código e sugerir melhorias em textos.
+Engenharia de Prompts: Técnica que envolve a criação de instruções estratégicas para obter respostas mais relevantes dos modelos de IA.
+Esse primeiro módulo do curso fornece uma base sólida para entender o funcionamento da IA Generativa e como utilizá-la para construir aplicações inteligentes.
+
+🔹 Fundamentos de IA
+A Inteligência Artificial abrange diversas áreas além da IA Generativa. O curso também explora as principais cargas de trabalho em IA:
+
+Machine Learning: Técnicas para treinar modelos a partir de dados e fazer previsões (como classificação e regressão).
+Visão Computacional: Algoritmos que permitem máquinas interpretarem imagens e vídeos (como reconhecimento facial e detecção de objetos).
+Processamento de Linguagem Natural (NLP): Técnicas que permitem às máquinas entenderem e gerarem linguagem humana.
+Inteligência de Documentos: Automação da análise de documentos por meio de IA.
+Mineração de Conhecimento: Descoberta de padrões ocultos em grandes conjuntos de dados.
+Além disso, são abordados os desafios e considerações éticas, como imparcialidade, segurança, privacidade, transparência e responsabilidade no uso da IA.
+
+Esse módulo destaca como diferentes técnicas de IA podem ser aplicadas e os cuidados necessários ao desenvolvê-las.
+
+🔹 Fundamentos do Aprendizado de Máquina
+Outro tópico fundamental no curso é o Machine Learning (ML), que se divide em três tipos principais de aprendizado:
+
+Supervisionado: O modelo aprende com dados rotulados (ex.: classificação de e-mails como spam ou não).
+Não Supervisionado: Identifica padrões em dados não rotulados (ex.: segmentação de clientes).
+Por Reforço: Aprende por tentativa e erro, recebendo recompensas ou penalidades (ex.: IA em jogos e robótica).
+O curso também explora conceitos como treinamento e avaliação de modelos, validação cruzada e aprendizado profundo (Deep Learning), utilizando frameworks populares como TensorFlow, PyTorch e Keras.
+
+Esse conhecimento é essencial para quem deseja trabalhar com desenvolvimento de modelos de IA na prática.
+
+🔹 Processamento de Linguagem Natural (NLP) e IA Conversacional
+O curso ainda dedica um módulo ao NLP e IA Conversacional, abordando como os serviços da Azure Cognitive Services podem ser utilizados para criar soluções inteligentes.
+
+Entre os principais serviços estudados, estão:
+
+Text Analytics: Análise de sentimentos e extração de informações de textos.
+Azure Bot Service: Criação de chatbots inteligentes.
+LUIS (Language Understanding Intelligent Service): Ferramenta para treinar modelos que interpretam a intenção do usuário.
+QnA Maker: Criação de bases de conhecimento para responder perguntas frequentes.
+A aplicação desses serviços permite desenvolver sistemas conversacionais que melhoram a interação entre humanos e máquinas.
+
+ Conclusão
+Este curso tem sido uma excelente oportunidade para aprofundar meus conhecimentos em IA Generativa, Machine Learning, NLP e suas aplicações práticas. Além de explorar conceitos fundamentais, o curso proporciona experiência prática com ferramentas modernas, como Azure AI, tornando possível a criação de soluções inovadoras com Python.
+
+Esse aprendizado está sendo essencial para minha jornada como desenvolvedora, ampliando minha capacidade de integrar IA em aplicações reais. 
